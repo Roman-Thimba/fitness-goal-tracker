@@ -13,3 +13,4 @@ A CLI app to track fitness goals and progress.
 pipenv install
 pipenv shell
 alembic upgrade head
+# CLI-project
