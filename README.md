@@ -14,3 +14,4 @@ pipenv install
 pipenv shell
 alembic upgrade head
 # CLI-project
+# CLI-project
